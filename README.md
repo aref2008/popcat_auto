@@ -10,16 +10,15 @@ click numbers and wait period randomized to bypass any potential automation dete
 2- Install Python 3.9<br>
 3- run "pip install -r req.txt"<br>
 4- run "python popcat.py"<br>
-5- If code not work visit [a link](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) and download webdriver depend on your Edge version and replace it in folder!<br>
+5- If code not work visit [Edge web driver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) and download webdriver depend on your Edge version and replace it in folder!<br>
 
 
 
 
-Chrome web driver:<br>
-[a link](https://chromedriver.chromium.org/getting-started)<br>
 
-Firefox web driver:<br>
-[a link](https://github.com/mozilla/geckodriver/releases)<br>
+[Chrome web driver](https://chromedriver.chromium.org/getting-started)<br>
+
+[Firefox web driver](https://github.com/mozilla/geckodriver/releases)<br>
 
 
 
