@@ -30,7 +30,7 @@ var rand_num = Math.random() * (100) + 650;const app=document.querySelector("#ap
 ```
 <br>
 
-<b>"How to use it" video on Youtube:</b><br>
+<b>[Youtube video](https://youtu.be/kwuvcYNQYpI)</b><br>
 
 
 Enjoy :)
