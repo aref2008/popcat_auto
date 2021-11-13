@@ -16,9 +16,9 @@ click numbers and wait period randomized to bypass any potential automation dete
 
 
 
-[Chrome web driver](https://chromedriver.chromium.org/getting-started)<br>
+Click here to download [Chrome web driver](https://chromedriver.chromium.org/getting-started)<br>
 
-[Firefox web driver](https://github.com/mozilla/geckodriver/releases)<br>
+Click here to download [Firefox web driver](https://github.com/mozilla/geckodriver/releases)<br>
 
 
 
